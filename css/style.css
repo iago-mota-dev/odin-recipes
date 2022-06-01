@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #000;
+    text-align: center;
+    color:#fff;
+}
+h1{
+    color: rgb(255, 208, 0);
+    
+}
+a{
+    color:rgb(253, 0, 0);
+}
+a:hover{
+    color:#fff;
+}
+ul{
+    text-align: left;
+}
+ol{
+    text-align: left;
+}
+.header{
+    color: rgb(255, 208, 0);
+    text-align: center;
+}
